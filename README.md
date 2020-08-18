@@ -42,5 +42,4 @@ This function will helps to find the features/locations of the new image. The wa
 •	Using the LBP combined with histograms we can represent the face images with a simple data vector.
 •	As LBP is a visual descriptor it can also be used for face recognition tasks, as can be seen in the following step-by-step explanation.
 3. Training the Algorithm: First, we need to train the algorithm. To do so, we need to use a dataset with the facial images of the people we want to recognize. We need to also set an ID (it may be a number or the name of the person) for each image, so the algorithm will use this information to recognize an input image and give you an output. Images of the same person must have the same ID. With the training set already constructed, let’s see the LBPH computational steps.
-ER DAIGRAM  
- 
+
